@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\learn\gamedev\bigG\main.cpp(160,18): warning C4018: “<”: 有符号/无符号不匹配
+  bigG.vcxproj -> E:\learn\gamedev\bigG\x64\Debug\bigG.exe
